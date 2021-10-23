@@ -55,7 +55,7 @@ List version available in your repo
     
     → With docker, You have an orchestrator, you merely need to state how many containers you want and the image name, and the orchestrator creates that on all of your Docker servers
     
-    ![Untitled](Docker%20b8eafc170498418e8ab511069fbacd4b/Untitled.png)
+    ![DuplicateContainer](images/DuplicateContainer.png)
     
 - **Seamless upgrades:** don't understand
     - [https://www.educative.io/module/page/LgoqGKFl7YxO2wNDm/10370001/5453871022342144/5979051033362432](https://www.educative.io/module/page/LgoqGKFl7YxO2wNDm/10370001/5453871022342144/5979051033362432)
